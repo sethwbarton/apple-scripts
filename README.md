@@ -10,5 +10,6 @@ You can plug that straight into your bash script and run whatever apple script y
 
 Available scripts: 
 
-send-late-text.scpt <her number> <message>
+send-late-text.scpt her-number message
   - Got this one from the legendary hacker-scripts repo and modified it to meed my much less aggressive needs. 
+  - You'll need to have iMessage set up on your mac for this to work. 
